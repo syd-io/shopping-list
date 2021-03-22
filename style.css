@@ -1,0 +1,12 @@
+li {
+  padding: 7px;
+  display: inline-block;
+}
+
+.wrapper {
+  display: list-item;
+}
+
+.done {
+  text-decoration: line-through;
+}
